@@ -1,2 +1,2 @@
 # Galaxy
-Author - Kalyani Shriwas
+Author - Kalyani Shriwas(Git Demo)
